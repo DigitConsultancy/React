@@ -1,3 +1,20 @@
+1. Install json-server globally, db.json should be in package.json level 
+json-server --port 3001 --watch db.json
+
+2. Component => state + render
+
+3. React component life cycle
+   Wociech maj Recat lifecycle diagram
+   ComponentDidMount
+   ComponentdidUpdate = NewProps+SetUpdate+ForceUpdate --> Render --> ComponentDidUpdate
+   ComponenetWillunMount = clean exiting
+
+4.  Use react-router-dom instead of react-router
+
+5. npm i reactstrap bootstrap add in index.js
+
+6. Add font-awesome in index.html
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
